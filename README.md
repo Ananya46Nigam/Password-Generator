@@ -8,4 +8,10 @@ A very useful password generator to protect your content from hackers!
 
 
 
+
+
 ![output_password_generator_hard](https://user-images.githubusercontent.com/80421780/184551108-8bbe812a-9e4f-4145-b60c-3843806ef019.jpg)
+
+
+For easy level of passwords the characters follow a sequence i.e. alphabets , symbols and digits.
+And for Hard passwords the characters are jumbled making it almost humanly IMPOSSIBLE to guess.
